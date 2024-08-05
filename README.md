@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JyotiRana28
-- 👀 I’m interested in Business Analyt
+- 👀 I’m interested in Business Analyst
 - 🌱 I’m currently learning Excel, SQL, Python, Power BI, Power Point
 - 💞️ I’m looking to collaborate on Internship
 - 📫 How to reach me by Linkedin
